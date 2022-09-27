@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size: 100%;
+}
+#box{
+    position: absolute;
+}
+.image{
+    padding: 20px;
+    position: absolute;
+    float: left;
+    position: absolute;
+}
+.main{
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* background-color: yellow; */
+    float: right;
+    width: 50%;
+    padding: 250px 100px 500px 100px;
+}
+.format{
+    display: flex;
+}
+input#contact{
+    background-color: rgb(232, 118, 118);
+}
+.contact{
+    background-color: red;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
